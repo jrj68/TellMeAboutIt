@@ -32,7 +32,7 @@
             android:textSize="32sp"
             android:padding="10dp"
             android:textColor="@color/purple"
-            android:background="@drawable/inputbox"
+         
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp">
             <requestFocus/>
@@ -57,7 +57,7 @@
             android:textSize="32sp"
             android:padding="10dp"
             android:textColor="@color/purple"
-            android:background="@drawable/inputbox"
+          
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp">
         </EditText>
@@ -73,14 +73,14 @@
                 android:id="@+id/loginButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@drawable/button_login"
+                
  />
 
             <Button
                 android:id="@+id/signupButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@drawable/button_signup"
+                
 />
             
         </LinearLayout>
